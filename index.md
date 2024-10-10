@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Nicolas'
-description: null
+description: 'this is the description'
 image: null
 author: null
 show_tile: false
