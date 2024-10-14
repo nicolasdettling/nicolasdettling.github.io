@@ -15,7 +15,20 @@ image: assets/images/models.png
 </ul>
 
 <h2 id="content">Blog Posts</h2>
-<dl>
+
+<p>
+<b>N. Dettling</b>: Research Stay at the Institute of Low Temperature Science, Hokkaido University, TRR181 Energy Transfers in Atmosphere and Ocean Newsletter (2023)
+</p>
+<ul class="actions">
+	<li><a href="https://www.trr-energytransfers.de/news/article/report-research-stay-in-japan-by-nicolas-dettling" class="button special small">Read here</a></li>
+</ul>
+
+<p>
+G. Gajardo Flores <b>N. Dettling</b>: La ciencia como derecho humano: Antártica como caso de estudio, Blog U-Antártica, Universidad de Chile (2020)
+</p>
+<ul class="actions">
+	<li><a href="https://u-antartica.uchile.cl/la-ciencia-como-derecho-humano-antartica-como-caso-de-estudio/" class="button special small">Read here</a></li>
+</ul>
 
 <h2 id="content">Talks and Posters (selection)</h2>
 
